@@ -74,12 +74,15 @@ if _name_ == '_main_':
 ```
 MobileRobot Movement Image:
 robo
+
 ![Screenshot (420)](https://github.com/santhanalakshmi04/mobilerobot-openloopcontrol/assets/119475762/67ad8ca2-88a9-46b0-8e9a-a155872536e6)
 
 Start Point:
+
 ![Screenshot (421)](https://github.com/santhanalakshmi04/mobilerobot-openloopcontrol/assets/119475762/e6dc100e-146e-4d07-bb85-69804076fd9b)
 
 End Point:
+
 ![Screenshot (422)](https://github.com/santhanalakshmi04/mobilerobot-openloopcontrol/assets/119475762/f09598b2-0837-4d0f-98ea-cf1934d0346d)
 
 
